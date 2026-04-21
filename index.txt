@@ -1,2 +1,4 @@
 Hello Git!
 Second line added
+work in progress...
+New change
