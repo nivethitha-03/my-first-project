@@ -2,3 +2,5 @@ Hello Git!
 Second line added
 work in progress...
 New change
+Wrong code
+Bad code here
